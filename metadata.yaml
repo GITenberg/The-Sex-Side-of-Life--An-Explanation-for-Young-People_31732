@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '35435'
     url: http://www.gutenberg.org/2009/agents/35435
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31732#The-Sex-Side-of-Life--An-Explanation-for-Young-People
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - Sociology
